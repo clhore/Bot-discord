@@ -1,10 +1,10 @@
 {
     "clase": {
         "Aules": {
-            "Login": "https://aules.edu.gva.es/fp/login"
+            "Login": "link a compartir"
         },
         "MME": {
-            "drive_Carpet": "https://drive.google.com/drive/folders/1-3g_GJzHQOYvGunQQcUbX3PhcMme5EZi?usp=sharing"
+            "drive_Carpet": "linkA compartir"
         },
         "lectivo": {
             "abril": ["14","16","20","22","26","28","30"],
@@ -19,7 +19,7 @@
             "embed": {
                     "title": ":small_red_triangle_down:  ***COMANS***",
                     "color": 1997068,
-                    "description": "  **|Aules| ⟶  .au*   ➫   **(*Login web aules*)  [:question:](https://aules.edu.gva.es/fp/login/index.php) \n  **|Hour Hand| ⟶  .dia   ➫   **(*Muestra el horario de clase*)                  \n  **|MME| ⟶  .MME*  ➫   **(*Carpeta compartida de MME*)  [:grey_question:](https://drive.google.com/drive/folders/1-3g_GJzHQOYvGunQQcUbX3PhcMme5EZi?usp=sharing) "
+                    "description": "texto"
                 }
         },      
         "dia": {
@@ -27,7 +27,7 @@
                 "embed": {
                     "color": 1997068,
                     "image": {
-                        "url": "https://i.imgur.com/bH1dL5E.png"
+                        "url": "link imagen"
                       }
                 }
             },
@@ -35,7 +35,7 @@
                 "embed": {
                     "color": 13319220,
                     "image": {
-                        "url": "https://i.imgur.com/CB8Ar2H.jpg"
+                        "url": "link imagen"
                       }
                 }
             }
